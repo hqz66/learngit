@@ -1,3 +1,3 @@
 Git is a version
-creating a new branch is quick
-creating a new branch is quick and simple
+
+this is added by dev branch
